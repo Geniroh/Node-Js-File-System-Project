@@ -1,0 +1,14 @@
+{
+  "name": "nodejsfileproject",
+  "version": "1.0.0",
+  "description": "node js file system project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geniroh",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
